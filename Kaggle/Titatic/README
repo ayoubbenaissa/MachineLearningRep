@@ -1,0 +1,3 @@
+this repository contains my work for the problem of titanic in Kaggle plateform. 
+In the BridSearchCV file I used many algorithms and noticed that Random Forest is the best one,
+So I implemented it in another file RandomForest
