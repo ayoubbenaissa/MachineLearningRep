@@ -1,0 +1,8 @@
+this folder contains most commun steps that any datascientist will need.
+These steps will be almost always used in machine learning with every model, and these steps are simply:
+  *) Importing libraries that the datascientist will use through his work 
+  *) Importing the dataset (that will be used to train the model but also to test it, since machine learning is all about data)
+  *) In most cases the train data must be split into train data and dev-test data before dealing with the test set
+   (this is Cross-validation)
+   *) Sometimes the data contains alot of missing values that must be taken care of (Imputer), also sometimes dataset contains
+   categorical data that the ML algo can't use so it must be transformed into numerical data (LabelEncoder and OneHotEncoder)
