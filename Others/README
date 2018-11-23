@@ -3,3 +3,5 @@ First, I began with imprting libraries (numpy, pandas, seaborn, sklearn...).
 Then, importing the dataset, and making some visualization which can help to extract important features and understand better the data set. 
 Then, I used the GridSearchCV algorithm on the "RnadomForest" to find the best combination of parameters. 
 I also, reused GridSearchCV to fiind the best algorithm from a set of ml algo (svm, linear regression...)
+
+The second file is implementing SVM for image recognition (you can follow sentdex youtube channel for better details)
